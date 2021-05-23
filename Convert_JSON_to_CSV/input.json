@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Akash",
+    "age": 26,
+    "birthyear": "1994"
+  },
+  {
+    "Name": "Abhay",
+    "age": 34,
+    "birthyear": "1986"
+  },
+
+  {
+   "Name" : "Amit",
+   "age" : 23,
+   "birthyear" :1998
+  },
+  {
+   "Name" : "Aayushmaan",
+   "age" : 24,
+   "birthyear" :1997
+  }
+]
